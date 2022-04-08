@@ -1,0 +1,13 @@
+{
+    "btnAddNewComputer" : "//*[@id='add']",
+
+    "elementComputerName" : "#name",
+    "elementIntroduced" : "#introduced",
+    "elementDiscontinued" : "#discontinued",
+    "elementCompany" : "#company",
+    "btnCreateComputer" : "[value='Create this computer']",
+
+    "alertSuccessfulMns": "//*[@id='main']/div[1]"
+
+
+}
